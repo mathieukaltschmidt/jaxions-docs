@@ -17,6 +17,7 @@ In the `scripts/pyaxions` folder several python modules are facilitating the vis
 - `jaxions.py`
 - `spectrum.py`
 - `simgen.py`
+- 'randomstrings.py'
 - `specfromF.py`
 
 ```python
